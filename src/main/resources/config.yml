@@ -1,0 +1,10 @@
+cooldown: 60
+
+messages:
+  not-a-player: "&cThis command is for players only."
+  cooldown: "&cCooldown in progress. Please wait {time} seconds."
+  position-message: "&6{player} is at X:{x}, Y:{y}, Z:{z}."
+#  日本語
+#  not-a-player: "&cこのコマンドはプレイヤー専用です。"
+#  cooldown: "&cクールダウン中です。あと {time} 秒お待ちください。"
+#  position-message: "&6{player} は X:{x}, Y:{y}, Z:{z} にいます。"
