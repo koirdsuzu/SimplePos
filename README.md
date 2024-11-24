@@ -14,7 +14,7 @@
 
 ## Installation
 1. **Download the Plugin**  
-   Download the latest `.jar` file from the [Releases](https://github.com/your-repository/releases) page.
+   Download the latest `.jar` file from the [Releases](https://github.com/koirdsuzu/SimplePos/releases) page.
 
 2. **Add to Your Server**  
    Place the `.jar` file into your server's `plugins` folder.
@@ -89,7 +89,7 @@ This project is licensed under the MIT License.
 
 ## インストール方法
 1. **プラグインをダウンロード**  
-   最新の `.jar` ファイルを [Releases](https://github.com/your-repository/releases) からダウンロードします。
+   最新の `.jar` ファイルを [Releases](https://github.com/koirdsuzu/SimplePos/releases) からダウンロードします。
 
 2. **サーバーに導入**  
    ダウンロードした `.jar` ファイルをサーバーの `plugins` フォルダに配置します。
